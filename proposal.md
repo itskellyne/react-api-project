@@ -1,10 +1,10 @@
 # [Project Name]
 
-Created by [team member], [team member], and [team member].
+Created by Kellyne Stephens
 
 ## 🚀 Mission statement
 
-Our application, [app name] is for [target audience]. It allows users to [what it does and why audience would use it]
+Our application, [app name] is for new readers. It allows users to access news from the New York Times
 
 ## API
 
